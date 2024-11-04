@@ -1,0 +1,62 @@
+<html>
+
+<head>
+    <style>
+        body {}
+
+        .text1 {
+            color: red;
+            text-decoration: overline;
+        }
+
+        .text2 {
+            color: #71ffb0;
+            text-decoration: line-through;
+        }
+
+        .text3 {
+            color: rgb(70, 89, 120);
+            text-decoration: underline;
+        }
+
+        .text1 {
+            color: rgba(0, 0, 0, 0.4);
+            text-decoration: underline overline;
+        }
+
+        .text1 {
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        .p2 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>About Basketball</h1>
+    <div class="text1">Basketball is a team sport where two teams of five players compete to score points by throwing a
+        ball into a hoop called
+        a basket</div>
+    <div class="text2">Basketball
+        Goal
+        Score more points than the other team by throwing the ball into the opposing basket
+        Scoring
+        Two points for a basket, three points for a shot from outside the three-point arc</div>
+    <div class="text3">Court
+        Rectangular court, usually indoors, with a basket at each end</div>
+    <div class="text4">Players
+        Five players per team, with different positions and roles Movement
+        Players can run with the ball, but only if they're bouncing it (dribbling)
+        Defense
+        The defending team tries to prevent the offensive team from scoring by blocking or stealing the ball</div>
+    <p class="p1">Basketball was invented in 1891 by James Naismith, a Canadian physical education teacher at
+        Springfield College in
+        Massachusetts. Naismith created the game to keep his students from getting bored during the winter.</p>
+    <p class="p2">Basketball is the only major sport that originated in the United States, although Naismith was born in
+        Canada. It's one
+        of the most popular and widely viewed sports in the world.</p>
+</body>
+
+</html>
